@@ -1,23 +1,55 @@
-# Disaster Risk Management Portfolio
+# 🌍 Disaster Risk Management Portfolio
 
-This folder showcases my applied knowledge and tools used in disaster preparedness, response, and risk reduction.
+This section of my portfolio highlights my applied experience and technical competencies in disaster preparedness, risk reduction, and humanitarian coordination. It integrates analytical tools, planning frameworks, and policy engagement to demonstrate my professional journey toward becoming a Disaster Risk Analyst.
 
-### 🧩 Core Competencies
-- **DesInventar Sendai System:** Experienced in data entry, analysis, and reporting using the DesInventar platform for disaster loss databases, aligned with the Sendai Framework for Disaster Risk Reduction.
-- **Contingency Planning:** Skilled in developing multi-hazard contingency plans tailored for drought, flood, and fire response.
-- **Vulnerability and Capacity Assessment:** Conducted community-level vulnerability mapping and developed scoring matrices to guide resilience strategies.
-- **Incident Command Systems (ICS):** Familiar with the structure and operation of ICS in disaster response coordination.
-- **Disaster Preparedness Exercises:** Designed and facilitated simulation drills to evaluate contingency and command effectiveness.
+---
 
-### 🧠 Tools & Software
-- DesInventar Sendai
-- CAMEO Suite (ALOHA & MARPLOT)
-- ArcGIS & QGIS
-- Excel for quantitative analysis
-- KoboToolbox & ODK for data collection
+## 🧭 Areas of Expertise
 
-### 📁 Files Included
-- Sample contingency plans
-- Vulnerability assessment tools
-- Incident command structure templates
-- Example disaster data reports (DesInventar format)
+### 1️⃣ Risk Assessment and Data Systems
+- Skilled in **DesInventar Sendai** for loss data management and risk profiling.
+- Experienced in **CAMEO Suite (ALOHA & MARPLOT)** for hazard modeling and chemical incident mapping.
+- Competent in **GIS and remote sensing** for hazard and exposure analysis.
+
+### 2️⃣ Preparedness and Contingency Planning
+- Designed community-level **contingency and vulnerability assessment plans**.
+- Conducted a **market analysis** to assess community resilience and preparedness ahead of predicted heavy rains (impact on access, prices, and coping mechanisms).
+- Participated in **anticipatory action framework formulation workshops**, strengthening early action planning aligned with climate forecasts.
+
+### 3️⃣ Disaster Response Coordination
+- Practical understanding of **Incident Command Systems (ICS)** and multi-agency coordination.
+- Supported **simulation exercises** to test disaster preparedness and response workflows.
+- Knowledge of **standard operating procedures (SOPs)** for emergency response activation.
+
+### 4️⃣ Policy and Framework Alignment
+- Engaged in workshops for:
+  - **Kenya’s National Disaster Risk Management Framework**
+  - **Medium-Term Plan IV (MTP IV)** consultations
+  - **Anticipatory Action Frameworks** (Kenya Red Cross & partners)
+- Skilled at aligning project outcomes to **Sendai Framework Priorities (2015–2030)**.
+
+---
+
+## 🧩 Portfolio Subsections
+
+| Folder | Description |
+|--------|--------------|
+| **Preparedness_Dashboard_Sample** | Community-level indicators and dashboard visualization showing readiness metrics. |
+| **Disaster_Response_Coordination** | Demonstrations of response command systems, coordination tables, and workflows. |
+| **Sendai_Framework_Alignment** | Documentation showing how my projects align with the Sendai Framework priorities. |
+| **Simulation_Exercises** | Simulated flood and drought response scenarios, including GIS visualizations and after-action notes. |
+| **Professional_Certifications** | Certified training records and workshops on M&E, GIS, CAMEO Suite, and DRM policy processes. |
+
+---
+
+## 🧠 Tools & Software Proficiency
+- **DesInventar Sendai**, **CAMEO Suite**, **ArcGIS/QGIS**, **Excel/Power BI**, **KoboToolbox**, **ODK**, **Python (basic)**  
+- **Web Development (HTML, CSS)** — for interactive dashboards and public disaster communication.
+
+---
+
+## 🧾 Summary Statement
+I am passionate about advancing evidence-based disaster risk management using data analytics, GIS, and participatory community frameworks.  
+This portfolio is a reflection of my continued learning in risk analysis, monitoring & evaluation, and the integration of anticipatory action approaches for resilience-building.
+
+---
