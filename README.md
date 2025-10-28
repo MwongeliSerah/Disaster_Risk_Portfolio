@@ -19,7 +19,7 @@ My background combines disaster analysis, monitoring & evaluation, and geospatia
 - **Python, SQL** – data analysis and reporting automation  
 
 ### Application
-I apply these skills to bridge technical risk analysis and policy-level disaster preparedness, especially within humanitarian contexts like the **Kenya Red Cross**.
+I apply these skills to bridge technical risk analysis and policy-level disaster preparedness, especially within humanitarian contexts.
 
 
 ## 📂 Project Areas
